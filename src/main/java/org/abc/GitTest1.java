@@ -8,5 +8,6 @@ public class GitTest1 {
         else {
             System.out.println("Do work.....");
         }
+        System.out.println("welcome to GitHub using IntelliJ");
     }
 }
